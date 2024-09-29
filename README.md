@@ -1,5 +1,5 @@
 
-Steps to run the script locally:
+Steps to run the app locally on your machine:
 
 1. Run the command: ***git clone git@github.com:vishal-n/document-scanner.git***
 2. cd to the location where the repository has been created and run the command: ***pip install -r requirements.txt***
